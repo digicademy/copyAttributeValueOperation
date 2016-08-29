@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.namenforschung</groupId>
+  <artifactId>copyAttributeValueOperation</artifactId>
+  <version>1.0</version>
+  <name>copyAttributeValueOperation</name>
+  <description>An author operation in Oxygen XML editor for copying an attribute value in the author mode.</description>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>com.oxygenxml</groupId>
+  		<artifactId>oxygen-sdk</artifactId>
+  		<version>16.1.1</version>
+  	</dependency>
+  </dependencies>
+</project>
